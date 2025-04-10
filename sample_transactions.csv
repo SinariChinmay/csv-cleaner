@@ -1,0 +1,5 @@
+Name,Amount,Transaction Date
+Alice,120.5,2023-10-01
+Bob,85.0,2023-10-02
+,95.3,2023-10-03
+Dave,,2023-10-04
